@@ -8,7 +8,7 @@ Estudante de Análise e Desenvolvimento de Sistemas buscando oportunidade de Est
 ---
 
 ### 📊 GitHub Stats
-![Commits](https://img.shields.io/badge/Commits-1000+-blue?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-50+-blue?style=for-the-badge)
 ![Repos](https://img.shields.io/badge/Repositórios-10+-green?style=for-the-badge)
 ![Contribuições](https://img.shields.io/badge/Contribuições-Diárias-orange?style=for-the-badge)
 
