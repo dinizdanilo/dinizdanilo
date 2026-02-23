@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Danilo Diniz
 **`Desenvolvedor BackEnd`**
 
-Estudante de Análise e Desenvolvimento de Sistemas buscando oportunidade de Estágio em Desenvolvimento Backend. Tenho foco na construção de APIs robustas, arquitetura de software e boas práticas de desenvolvimento utilizando Python e Django, Java e SprinBoot e etc.
+Estudante de Análise e Desenvolvimento de Sistemas buscando oportunidade de Estágio em Desenvolvimento Backend. Tenho foco na construção de APIs robustas, arquitetura de software e boas práticas de desenvolvimento utilizando Python e Django, Java e SpringBoot e etc.
 
 
 
