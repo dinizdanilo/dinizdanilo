@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Danilo Diniz
 **`Desenvolvedor BackEnd`**
 
-Estudante de Análise e Desenvolvimento de Sistemas buscando oportunidade de Estágio em Desenvolvimento Backend. Tenho foco na construção de APIs robustas, arquitetura de software e boas práticas de desenvolvimento utilizando Python e Django, Java e SpringBoot e etc.
+Estudante de Análise e Desenvolvimento de Sistemas com interesse em desenvolvimento de software. Tenho interesse em contribuir em diferentes áreas do desenvolvimento, incluindo front-end e back-end, com foco em boas práticas, organização e evolução contínua.
 
 
 
@@ -25,8 +25,6 @@ Estudante de Análise e Desenvolvimento de Sistemas buscando oportunidade de Est
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrum-Agile-blueviolet?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kanban-Agile-teal?style=for-the-badge" />
 </div>
 
 ---
