@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Danilo Diniz
-**`Desenvolvedor BackEnd`**
+**`Estudante de ADS`**
 
 Estudante de Análise e Desenvolvimento de Sistemas com interesse em desenvolvimento de software. Tenho interesse em contribuir em diferentes áreas do desenvolvimento, incluindo front-end e back-end, com foco em boas práticas, organização e evolução contínua.
 
