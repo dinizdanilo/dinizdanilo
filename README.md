@@ -8,11 +8,9 @@ Estudante de Análise e Desenvolvimento de Sistemas com interesse em desenvolvim
 ---
 
 ### 📊 GitHub Stats
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dinizdanilo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinizdanilo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
+![Commits](https://img.shields.io/badge/💻_Commits-300+-yellow?style=for-the-badge)  
+![Repos](https://img.shields.io/badge/📂_Repositórios-15+-success?style=for-the-badge)  
+![Contribuições](https://img.shields.io/badge/🔥_Contribuições-Diárias-blue?style=for-the-badge)  
 ---
 
 ### 🛠️ Tecnologias de Interesse
