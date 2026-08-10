@@ -8,7 +8,7 @@ Estudante de Análise e Desenvolvimento de Sistemas com interesse em desenvolvim
 ---
 
 ### 📊 GitHub Stats
-![Commits](https://img.shields.io/badge/💻_Commits-300+-yellow?style=for-the-badge)  
+![Commits](https://img.shields.io/badge/💻_Commits-400+-yellow?style=for-the-badge)  
 ![Repos](https://img.shields.io/badge/📂_Repositórios-15+-success?style=for-the-badge)  
 ![Contribuições](https://img.shields.io/badge/🔥_Contribuições-Diárias-blue?style=for-the-badge)  
 ---
